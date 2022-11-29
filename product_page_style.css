@@ -1,0 +1,35 @@
+th, td  {
+    border:1px solid black;
+    
+  }
+tr {
+    text-align: center;
+}
+table {
+    width:100%;
+}
+img {
+    align-content: left;
+}
+
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+  width: 100%;
+  border: 1px solid #ddd;
+}
+
+th, td {
+  text-align: center;
+  padding: 16x;
+
+  padding-top: 25px;
+}
+
+tr:nth-child(odd) {
+  background-color: #f2f2f2;
+}
+th {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}

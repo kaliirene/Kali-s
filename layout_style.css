@@ -1,0 +1,33 @@
+footer{
+grid-area: 1;
+}
+header{
+grid-area: 2;
+}
+main{
+grid-area: 3;
+}
+nav{
+grid-area: 4;
+}
+section{
+grid-area: 5;
+}
+#layout {
+    grid-gap: 0px;
+}
+main {
+    width: 90%;
+    max-width: 1000px 1300px;
+    margin: auto;
+}
+nav  li {
+    display: inline-block;
+    display: inline-block;
+    
+}
+nav ul {
+  float: right;  
+}
+
+
